@@ -1,10 +1,6 @@
-# Introduction to Programming
+# Introduction to Computer Programming
 
-## Lab Worksheet – User Defined Types
-
-
-
-Complete each of these tasks, discussing your work with your tutor and fellow apprentices. At the end of the exercise you should have a small selection of programs you have written.
+## 04 User Defined Types
 
 **1\. Creating and using a struct type**
 

@@ -2,10 +2,6 @@
 
 ## 01 Getting Started
 
-Programming Projects
-
-Complete each of these tasks, discussing your work with your tutor and fellow apprentices. At the end of the exercise you should have a small selection of programs you have written.
-
 **1\. Console Output**
 
 1. Write a C program (called my_name.c) that displays your name to the console. Compile and run the program.

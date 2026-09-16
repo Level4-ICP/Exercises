@@ -1,7 +1,6 @@
 # Introduction to Computer Programming
 
-## Data Structures
-
+## 11 Data Structures
 
 **1\. Creating a stack**
 

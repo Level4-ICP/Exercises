@@ -1,7 +1,6 @@
 # Introduction to Computer Programming
 
-## File Handling
-
+## 10 File Handling
 
 **1\. Reading from a Text File**
 

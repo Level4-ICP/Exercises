@@ -1,13 +1,6 @@
 # Introduction to Computer Programming
 
-## The Standard Library
-
-
-Complete each of these tasks alone (since this is an individual assessment). At the end of the exercise you should have a small selection of programs you have written.
-
-Your solutions to this work contribute towards the **Component 1 Assessment** for the module. The code should include **comments**, describing how the solution was constructed.
-
-Upon submission your tutor will organise **a one to one demonstration**, during which you will have the opportunity to work through your code and explain how you implemented your solution. There are four exercises to complete, each contributing 25 marks toward the maximum of 100 marks available.
+## 09 The Standard Library
 
 **1\. Using the standard utilities library (stdlib.h)**
 

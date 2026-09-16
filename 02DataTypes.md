@@ -1,7 +1,6 @@
 # Introduction to Computer Programming
 
-## Lab Worksheet – Data types and operators
-
+## 02 Data types and operators
 
 **1\. Types and expressions**
 

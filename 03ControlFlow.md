@@ -1,9 +1,6 @@
 # Introduction to Computer Programming
 
-## Lab Worksheet – Control Flow
-
-
-Complete each of these tasks, discussing your work with your tutor and fellow apprentices. At the end of the exercise you should have a small selection of programs you have written.
+## 03 Control Flow
 
 **1\. Using the 'if' statement**
 

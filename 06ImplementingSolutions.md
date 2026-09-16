@@ -1,10 +1,6 @@
 # Introduction to Computer Programming
 
-## Implementing Solutions
-
-
-
-Complete each of these tasks, discussing your work with your tutor and fellow apprentices. At the end of the exercise you should have a small selection of programs you have written.
+## 06 Implementing Solutions
 
 note: ensure you attempt this exercise **without** the use of the Internet to find (one of the many) sorting algorithms that already exist.
 
