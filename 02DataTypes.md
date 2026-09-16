@@ -3,9 +3,6 @@
 ## Lab Worksheet – Data types and operators
 
 
-
-Complete each of these tasks, discussing your work with your tutor and fellow apprentices. At the end of the exercise you should have a small selection of programs you have written.
-
 **1\. Types and expressions**
 
 1. Write a C program (called calc.c) that contains two int type variables, one called **total** and another called **count**
