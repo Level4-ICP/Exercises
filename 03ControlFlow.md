@@ -143,7 +143,7 @@ that returns the smallest of the three passed parameters. Although there are man
  float area(float radius);
 ```
 
-that returns the area of a circle that has the specified radius (using 2 x PI x R).
+that returns the area of a circle that has the specified radius (using PI × R²).
 
 1. Add a main() function which calls each of these functions several times (and prints the output if necessary) to test whether your functions work as expected.
 
