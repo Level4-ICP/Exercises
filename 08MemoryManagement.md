@@ -58,7 +58,7 @@ Finally add a call to free() once prior to the programming existing, to ensure a
 
 **3\. Extra Challenge - only complete once all other solutions are FULLY working and you are very confident with programming**
 
-Write a C program (called linked_list.c) that is based on the ll_example.c file provided with the slides. Extend the original program so that it includes the following.
+Write a C program (called linked_list.c) that is based on the [ll_example.c](https://github.com/Level4-ICP/Exercises/blob/main/ll_example.c) file provided with the slides. Extend the original program so that it includes the following.
 
 1. Add a function with the following signature:
 
